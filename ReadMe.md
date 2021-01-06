@@ -2,15 +2,15 @@
 
 ## Contents
 
-* [Installation](#installation)
-* [Motivation](#motivation)
-* [About the data](#data)
-* [About the notebook](#notebook)
-* [Questions to solve](#questions)
-* [Results](#results)
-* [Licensing and Acknowledgments](#license)
+* Installation
+* Motivation
+* About the data
+* About the notebook
+* Questions to solve
+* Results
+* Licensing and Acknowledgments
 
-## Installation {#installation}
+## Installation
 
 Basic [Anaconda](https://www.anaconda.com/) installation would be enough to run this code. The following packages have been used to create this notebook.
 
@@ -21,11 +21,11 @@ Basic [Anaconda](https://www.anaconda.com/) installation would be enough to run 
 | Matplotlib | for data visualization |
 | re | regular expressions for performing string operations on the data in the dataframe |
 
-## Motivation {#motivation}
+## Motivation
 
 For this project, I wanted to understand how to break into the field to become a developer and other aspects like success. The survey was conducted by Stackoverflow among developers in 2017.
 
-## About the data {#data}
+## About the data
 
 The data has two csv files. 
 
@@ -36,7 +36,7 @@ survey_results_public.csv has 51392 rows and 154 columns with many insightful co
 
 survey_results_schema.csv is the schema used for the survey. Each row in the schema is the question posed to the respondent and the results are displayed in the first csv as columns. 
 
-## About the notebook {#notebook}
+## About the notebook
 
 The notebook has five sections that we will follow as a standard called the CRISP-DM process. 
 
@@ -45,7 +45,7 @@ The notebook has five sections that we will follow as a standard called the CRIS
 3. Data Preparation 
 4. Evaluating Results
 
-## Questions to solve {#questions}
+## Questions to solve
 
 In this notebook we attempt to solve the following questions and hopefully get some very interesting insights which will be recorded in the results section. 
 
@@ -55,9 +55,9 @@ In this notebook we attempt to solve the following questions and hopefully get s
 4. How did respondents become developers?
 5. How does parent’s education influence success of respondent?
 
-## Results {#results}
+## Results
 
 The main findings of the study can be found on my [blog post](https://ghemareddy97.medium.com/a-guide-to-becoming-a-developer-f46af73f0a4).
 
-## Licensing and Acknowledgements {#license}
+## Licensing and Acknowledgements
 Stack Overflow has to be credited for conducting the survey and presenting the data. The licensing for data can be found on [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017). Other than this, feel free to use the code!
