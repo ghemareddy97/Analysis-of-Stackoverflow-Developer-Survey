@@ -23,7 +23,7 @@ Basic [Anaconda](https://www.anaconda.com/) installation would be enough to run 
 
 ## Motivation
 
-For this project, I wanted to understand how to break into the field to become a developer and other aspects like success. The survey was conducted by Stackoverflow among developers in 2017.
+For this project, I wanted to understand how to break into the field to become a developer and other aspects like understanding factors that determine success of a developer. The survey was conducted by Stackoverflow among developers in 2017.
 
 ## About the data
 
